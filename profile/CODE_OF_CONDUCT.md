@@ -23,7 +23,12 @@ Examples of unacceptable behaviour by participants include:
 ### Enforcement
 The 404200.ai maintainers are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
 
-Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported by contacting the team at **conduct@404200.ai**. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported by contacting the team at **signal@404200.ai**. 
+
+> [!IMPORTANT]
+> Please include **'CONDUCT'** in your subject line to ensure your report is handled with the appropriate priority.
+
+All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 
 ### Scope
 This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the 404200-ai organisation or its community.

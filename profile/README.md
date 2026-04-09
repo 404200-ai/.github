@@ -28,4 +28,4 @@ We partner with SME owners, operations managers, founders, and agencies who want
 Ready to deploy AI in your business? Visit [404200.ai](https://404200.ai) to start your journey.
 
 ---
-📍 Nicosia, Cyprus · Serving the EU & MENA · [https://404200.ai](https://404200.ai)
+Serving the EU & MENA · [https://404200.ai](https://404200.ai)

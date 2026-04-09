@@ -6,7 +6,10 @@ At 404200.ai, we take security seriously, even in our documentation repositories
 These repositories primarily contain documentation, checklists, and resource guides. They do not contain application code or process user data.
 
 ### Reporting a security concern
-If you believe you have found a security issue within these repositories, please email us directly at **security@404200.ai**.
+If you believe you have found a security issue within these repositories, please email us directly at **signal@404200.ai**.
+
+> [!IMPORTANT]
+> Please include **'SECURITY'** in your subject line to ensure your report is routed to the correct team immediately.
 
 ### What counts as a security issue?
 In the context of these documentation repos, we are looking for:

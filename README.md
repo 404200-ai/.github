@@ -9,4 +9,4 @@ This repository contains the public profile, community health files, and organis
 - **Main Resource Hub**: Visit our [ai-tools-for-smes](https://github.com/404200-ai/ai-tools-for-smes) repository for our flagship guide on AI deployment for small businesses.
 
 ---
-📍 Nicosia, Cyprus · Serving the EU & MENA · [https://404200.ai](https://404200.ai)
+Serving the EU & MENA · [https://404200.ai](https://404200.ai)

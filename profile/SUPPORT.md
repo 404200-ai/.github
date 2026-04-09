@@ -6,7 +6,7 @@ Thank you for using our resources. Here is how to get the help you need:
 If you have a question, suggestion, or correction for any of our repos, the best way to get in touch is to **open a GitHub Discussion or Issue** in the relevant repository. We monitor these regularly.
 
 ### For business enquiries
-For questions about working with 404200.ai on custom AI deployments, strategy, or training, please visit our website: [https://404200.ai](https://404200.ai).
+For questions about working with 404200.ai on custom AI deployments, strategy, or training, please visit our website: [https://404200.ai](https://404200.ai) or email **signal@404200.ai**.
 
 ### General AI questions for SMEs
 If you have a general question about how AI can help your business, we recommend starting a thread in the **Discussions** section of our [ai-tools-for-smes](https://github.com/404200-ai/ai-tools-for-smes) repository. The community is full of practical advice.
